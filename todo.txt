@@ -1,0 +1,5 @@
+# TODO
+Add installation and run instructions
+Add more code documentation
+Experiment with Gini impurity
+Add tests
